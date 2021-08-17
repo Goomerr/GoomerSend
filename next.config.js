@@ -6,7 +6,7 @@ module.exports = {
   },
   reactStrictMode: true,
   env:{
-    backendURL: 'https://git.heroku.com/shielded-plateau-92213.git',
-    frontendURL: 'https://goomersend-cliente-goomerr.vercel.app/'
+    backendURL: 'https://serene-waters-86119.herokuapp.com/',
+    frontendURL: 'https://goomersend-cliente.vercel.app/'
 }
 }
