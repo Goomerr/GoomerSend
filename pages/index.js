@@ -32,7 +32,7 @@ const index = () => {
               <p className="text-center text-2xl">
                 <span className="font-bold text-red-700 text-3xl uppercase "> Tu URL para descargar es:</span>
                 <p className="cursor-pointer hover:text-red-500 mt-10 text-indigo-600">
-                  <a >{`${process.env.frontendURL}/enlaces/${url}`} </a></p>
+                  <a >{`${process.env.frontendURL}enlaces/${url}`} </a></p>
               </p>
             </Link>
             <button
