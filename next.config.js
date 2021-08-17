@@ -6,7 +6,7 @@ module.exports = {
   },
   reactStrictMode: true,
   env:{
-    backendURL: 'https://goomersendservidor.herokuapp.com/',
+    backendURL: 'https://goomersendservidor.herokuapp.com',
     frontendURL: 'https://goomersend-cliente.vercel.app/'
 }
 }
