@@ -28,7 +28,7 @@ const index = () => {
       <div className="md:w-44/5 xl:w-3/5 mx-auto mb-32">
         {url ? (
           <>
-            <Link href={`${process.env.frontendURL}/enlaces/${url}`}>
+            <Link href={`${process.env.frontendURL}enlaces/${url}`}>
               <p className="text-center text-2xl">
                 <span className="font-bold text-red-700 text-3xl uppercase "> Tu URL para descargar es:</span>
                 <p className="cursor-pointer hover:text-red-500 mt-10 text-indigo-600">
